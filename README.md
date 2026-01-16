@@ -1,24 +1,17 @@
-### Hi, I'm Daria Chemkaeva and I'm a database and programming lecturer 👋
+👋 Hi, I'm **Daria Chemkaeva**
 
-🔭 MS SQL Server, MongoDB, PostgreSQL  
-🔭 C# / .NET developer  
-🔭 Python  
-📕 MCSE, MCSD, MCT  
-📕 PhD on nonlinear differential equations and bifurcation diagrams  
-♻️🚗 recycling and cars  
+**Database Lecturer & Developer** 
 
+### 🛠️ Tech Stack
+* **Databases:** MS SQL Server, MongoDB, PostgreSQL
+* **Development:** C#, .NET, Python
 
-<!--
-**LSIND/LSIND** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📜 Certifications & Education
+* Microsoft Certified Trainer (MCT), MCSE, MCSD
+* **PhD** in Applied Mathematics (Nonlinear Differential Equations & Bifurcation Theory)
 
-Here are some ideas to get you started:
+### 🌱 Beyond Code
+* ♻️ Practicing and promoting the **"3 R's": Reduce, Reuse, Recycle**
+* 🚗 **"Freude am Fahren"** – a devoted BMW enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![DV Chemkaeva](https://www.dropbox.com/scl/fi/jr9lno84akj1bttatd6j9/chemkaeva_y2k_triple_icon_1f0f0b7f-9.png?rlkey=rdmpnh47umi0n6cg6c0zby1kl&raw=1)
